@@ -1,0 +1,35 @@
+$img: '../images/';
+
+$breakpoints: (
+  320: 320px,
+  480: 480px,
+  768: 768px,
+  981: 981px,
+  990: 990px,
+  992: 992px,
+  1030: 1030px,
+  1000: 1000px,
+  1100: 1100px,
+  1200: 1200px,
+  1400: 1400px,
+  1600: 1600px,
+  1800: 1800px,
+  2000: 2000px,
+);
+
+// SIZING
+$base: 62.5%;
+
+// COLOR
+$prim: #669E24;
+$sec: #FFAD00;
+$default: #23242C;
+$white: #F7F7F7;
+
+//FONTS
+$font-fallback: Helvetica,Arial,sans-serif;
+$f-header: 'Montserrat';
+$f-default: 'Raleway';
+
+//SPACING
+$mbottom: 15px;
